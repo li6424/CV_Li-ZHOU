@@ -1,13 +1,4 @@
-Li ZHOU
-16 Av de la Rhune 64240 Hasparren
-Date de Naissance : 05/03/1978	
-Date d’entrée France : 11/2007
-Enfant à charge : 1
-Permis de conduire B et Véhicule	 
-		
-06 51 71 76 04
-amelae9@hotmail.com
-		
+ <h1>Li ZHOU</h1>	
 		
 [COMPÉTENCES]
 
