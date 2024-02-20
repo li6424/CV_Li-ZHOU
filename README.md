@@ -1,15 +1,12 @@
  <h1>Li ZHOU</h1>	
 		
-[COMPÉTENCES]
+<h2>[COMPÉTENCES]</h2>
 
 ☞	Gestion des fournisseurs – Gestion & achat pièces détachées - Maîtrise des logiciels de base de données (SAP+IRIUM) – Connaissances sur des normes Industrielles (CE, ISO, REACH, RoHS etc.)
+☞	Informatique:  Excel (VBA), Word, PowerPoint, Photoshop, Illustrator, html/CSS, PHP et JavaScript, SQL,Python, Microsoft Power BI …
+☞	Langues :	Français (courant) – Chinois/cantonais (bilingue) - Anglais (courant) - Espagnol (notions)
 
-Informatique:  Excel (VBA), Word, PowerPoint, Photoshop, Illustrator, html/CSS, PHP et JavaScript, SQL,         Python, Microsoft Power BI, …
-
-Langues :	Français (courant) – Chinois/cantonais (bilingue) - Anglais (courant) - Espagnol (notions)
-
-
-[EXPÉRIENCES PROFESSIONNELLES]
+<h2>[EXPÉRIENCES PROFESSIONNELLES]</h2>
  
 10/2021-	Approvisionnement Stratégique [BMS All Circuits]                                  Mouguerre. France
 Présent	(Leader mondial de l'Electronic Manufacturing Services - www.allcircuits.com)		
@@ -36,21 +33,21 @@ Présent	(Leader mondial de l'Electronic Manufacturing Services - www.allcircuit
 •	Travail avec l’équipe de vente pour accueillir les clients / distributeurs visitant l’usine	
 
 
-[AUTO-ENTREPRENARIAT]
+<h2>[AUTO-ENTREPRENARIAT]</h2>
 								
 •	Enseignement dans des écoles supérieures : IAE (Université Bayonne), TALIS Business School (www.talis.community)
 •	Development du marketing: Verolt Engineering UK (www.verolt.com)
 French Dream Travel Agnecy (www.frenchdreamtravel.com), Price Induction Anglet (www.akira.pro)
 	
 
-[FORMATIONS] 
+<h2>[FORMATIONS] </h2>
 
 2009 - 2010	Master II - Marketing Stratégie & Packaging Design, IAE* de Poitiers	                          France
 2008 - 2009	Master I - Chargé d’Affaires à l’International, IAE* de Montpellier	                          France
 1996 - 2000	Bac +4 - Management du Tourisme et Marketing, Université de Xiangtan	               Chine
 	*IAE=Institut d’Administration des Entreprises
-	
+☞	<b>Formation (en cours) </b>:	IBM Data Science Professional Certificate + SQL: les Fondamentaux (SKILLEONS) + Microsoft Power BI-Les Fondamentaux (SKILLEONS)	
 
-[CENTRES D’INTÉRÊT]
+<h2>[CENTRES D’INTÉRÊT]</h2>
 
 Sports (yoga, méditation, canyoning, randonnée, spéléologie, ski…), mode, photographie, voyages…	
