@@ -1,5 +1,4 @@
  <h1>Li ZHOU</h1>
-
 	<p> 🌞Exploratrice expérientiel, éternelle étudiante et créature positive, rêves d'être un geek :-)</p>
 <h2>[COMPÉTENCES]</h2>
 
