@@ -6,7 +6,7 @@
 <p><b>Informatique:</b> Excel (VBA), Word, PowerPoint, PHP, JavaScript, SQL, Python, Microsoft Power BI...</p>
 <p>Formation (*en cours):	IBM Data Science Professional Certificate (www.coursera.org) + SQL: les Fondamentaux (SKILLEONS) + Microsoft Power BI-Les Fondamentaux (SKILLEONS)	</p>
 <p><b>Inforgraphie et Web Design:</b>  Photoshop, Illustrator, html/CSS...</p>
-<p><b>Langues :</b>Français (courant) – Chinois/cantonais (bilingue) - Anglais (courant) - Espagnol (notions)</p>
+<p><b>Langues : </b>Français (courant) – Chinois/cantonais (bilingue) - Anglais (courant) - Espagnol (notions)</p>
 
 <h2>[EXPÉRIENCES PROFESSIONNELLES]</h2>
  
