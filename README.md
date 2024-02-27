@@ -37,7 +37,7 @@
 
 <h2>[AUTO-ENTREPRENARIAT]</h2>
 								
-<p>•	Enseignement dans des écoles supérieures : IAE (Université Bayonne), TALIS Business School (www.talis.community)</p>
+<p>•	Enseignement dans des écoles supérieures : IAE (Université Bayonne), TALIS Business School (www.talis.community), Istec Business School (https://istec.fr)</p>
 <p>•	Development du marketing: Verolt Engineering UK (www.verolt.com)
 French Dream Travel Agnecy (www.frenchdreamtravel.com), Price Induction Anglet (www.akira.pro)</p>
 	
