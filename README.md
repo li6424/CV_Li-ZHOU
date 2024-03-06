@@ -1,5 +1,5 @@
  <h1>Li ZHOU</h1>
-	<p> 🌞Exploratrice expérientiel, éternelle étudiante et créature positive, rêves d'être un geek :-)</p>
+	<p> 🌞Produit d'interculturel, Exploratrice expérientiel, Eternelle étudiante et Créature positive, Rêves d'être un geek :-)</p>
 <h2>[COMPÉTENCES]</h2>
 
 <p><b>☞	Business Intelligence - Data science - Marketing Stratégie - Gestion des fournisseurs – Gestion & achat pièces détachées - Maîtrise des logiciels de base de données (SAP+IRIUM) – Connaissances sur des normes Industrielles (CE, ISO, REACH, RoHS etc.)</b></p>
@@ -37,7 +37,7 @@
 
 <h2>[AUTO-ENTREPRENARIAT]</h2>
 								
-<p>•	Enseignement dans des écoles supérieures : IAE (Université Bayonne), TALIS Business School (www.talis.community) </p>
+<p>•	Enseignement dans des écoles supérieures : IAE (Université Bayonne)/Cours de chinois, TALIS Business School (www.talis.community)/ Gestion interculturel </p>
 <p>•	Development du marketing: Verolt Engineering UK (www.verolt.com)
 French Dream Travel Agnecy (www.frenchdreamtravel.com), Price Induction Anglet (www.akira.pro), Istec Business School (https://istec.fr)</p>
 	
