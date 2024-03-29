@@ -5,7 +5,7 @@
 
 <p><b>☞	Management interculturel - Business Intelligence - Data science - Marketing Stratégie - Gestion des fournisseurs – Gestion & achat pièces détachées - Maîtrise des logiciels de base de données (SAP+IRIUM) – Connaissances sur des normes Industrielles (CE, ISO, REACH, RoHS etc.)</b></p>_Intercultural Management - Business Intelligence - Data Science - Marketing Strategy - Supplier Management - Spare Parts Management & Procurement - database management (SAP+IRIUM) - Industrial Standards (CE, ISO, REACH, RoHS, etc.)
 <p><b>Informatique:</b> Excel (VBA), Word, PowerPoint, PHP, JavaScript, SQL, Python, Microsoft Power BI...</p>
-<p>Formation (*en cours_ongoing):	IBM Data Science Professional Certificate (www.coursera.org) + SQL: les Fondamentaux (SKILLEONS) + Microsoft Power BI-Les Fondamentaux (SKILLEONS)	</p>
+<p>Formation_Training (*en cours_ongoing):	IBM Data Science Professional Certificate (www.coursera.org) + SQL: les Fondamentaux (SKILLEONS) + Microsoft Power BI-Les Fondamentaux (SKILLEONS)	</p>
 <p><b>Inforgraphie et Web Design:</b>  Photoshop, Illustrator, html/CSS...</p>
 <p><b>Langues_Languages : </b>Français_French (courant_fluency) – Chinois/Cantonais_Chinese/Cantonese (bilingue_Bilingual) - Anglais (fluency) - Espagnol (notions_basic knowledge)</p>
 
@@ -13,7 +13,7 @@
  
 <p><b><u>🙋🏻10/2021 - Présent: 	Approvisionnement Stratégique_Procurement Strategy [BMS All Circuits]                                  Mouguerre. France</u> </b></p>
 <p>(Leader mondial de l'Electronic Manufacturing Services - www.allcircuits.com)</p>		
-<p>• Établissement de plans d’approvisionnement à mi-long terme + l’Indicateur hebdomadaire _ Establishment of mid-term procurement plans + Weekly Indicator</p>
+<p>• Établissement de plans d’approvisionnement à mi-long terme + l’Indicateur hebdomadaire _ Establishment of mid-long term procurement plans + Weekly Indicator</p>
 <p>• Gestion de portefeuilles fournisseurs spécifiques, notamment Texas Instruments, etc. _ Management of specific supplier portfolios, including Texas Instruments, etc.</p>
 <p>• Recherche de nouveaux brokers et interventions en cas de dépannages _ Search for new brokers and intervention in case of troubleshooting.</p>
 
