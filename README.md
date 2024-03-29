@@ -1,6 +1,7 @@
  <h1>Li ZHOU</h1>
-	<p> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</p>
-<h2>[COMPÉTENCES]</h2> /Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreams of being a geek :-)
+	<p> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</p> /Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreams of being a geek :-)
+
+<h2>[COMPÉTENCES]</h2> 
 
 <p><b>☞	Management interculturel - Business Intelligence - Data science - Marketing Stratégie - Gestion des fournisseurs – Gestion & achat pièces détachées - Maîtrise des logiciels de base de données (SAP+IRIUM) – Connaissances sur des normes Industrielles (CE, ISO, REACH, RoHS etc.)</b></p>
 <p><b>Informatique:</b> Excel (VBA), Word, PowerPoint, PHP, JavaScript, SQL, Python, Microsoft Power BI...</p>
