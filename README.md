@@ -1,5 +1,5 @@
  <h1>Li ZHOU</h1>
-	<p> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</p> /Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreams of being a geek :-)
+	<p><b> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</b></p> //Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreams of being a geek :-)
 
 <h2>[COMPÉTENCES]</h2> 
 
