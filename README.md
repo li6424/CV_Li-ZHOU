@@ -1,5 +1,5 @@
  <h1>Li ZHOU</h1>
-	<p><b> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</b></p>_Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreams of being a geek :-)
+	<p><b> 🌞Produit d'interculturel, Exploratrice expérimentale, Eternelle étudiante et Créature positive, Rêves d'être geek :-)</b></p>_Intercultural product, Experimental explorer, Eternal student, and Positive being, Dreaming of being a geek :-)
 
 <h2>[COMPÉTENCES_SKILLS]</h2> 
 
@@ -39,7 +39,7 @@
 <h2>[AUTO-ENTREPRENARIAT _ ENTREPRENEUR]</h2>
 								
 <p>•	Enseignement dans des écoles supérieures _ College Professor : IAE (Université Bayonne)/Cours de chinois, TALIS Business School (www.talis.community)/ Gestion interculturel </p>
-<p>•	Development du marketing _ Marketing Development: Verolt Engineering UK (www.verolt.com)
+<p>•	Development du marketing _ Marketing Development: Telrad (https://www.telerad.fr/), Verolt Engineering UK (www.verolt.com)
 French Dream Travel Agnecy (www.frenchdreamtravel.com), Price Induction Anglet (www.akira.pro), Istec Business School (https://istec.fr)</p>
 	
 
